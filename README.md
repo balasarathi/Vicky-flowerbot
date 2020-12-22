@@ -225,7 +225,6 @@ through the `/stats` command, which is only available to the bot acsees.
 🛑ADMIN
 🛑WORD BLACKLIST
 🛑MISC
-🛑🛑🛑🛑🛑🛑🛑🛑
 read all my responsity 
 ----------------thankyou for all----------------- 
 Bye! See you later ! by balasarathi, subasri 
