@@ -217,7 +217,15 @@ it is necessary to migrate it in the db.
 
 The `__stats__()` function is for retrieving module statistics, eg number of users, number of chats. This is accessed 
 through the `/stats` command, which is only available to the bot acsees.
-
+#command
+🛑REPORTING
+🛑PURGE
+🛑AFK
+🛑ANDROID
+🛑ADMIN
+🛑WORD BLACKLIST
+🛑MISC
+🛑🛑🛑🛑🛑🛑🛑🛑
 read all my responsity 
 ----------------thankyou for all----------------- 
 Bye! See you later ! by balasarathi, subasri 
