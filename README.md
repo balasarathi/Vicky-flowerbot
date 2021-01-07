@@ -6,7 +6,7 @@ An modular group management bot
 # Vicky/flowerbot
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fxditya%2Fgroupmanager)
-
+[![open Vicky sources code](https://GitHub.com/balasarathi/vicky
 A modular Telegram Python bot running on python3 with an sqlalchemy database.
 # my groups and all bots
 Can be found on telegram as [flowerbot](https://t.me/react_flowerbot).
